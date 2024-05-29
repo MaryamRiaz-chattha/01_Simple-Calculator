@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "mrc01_simple-calculator",
   "version": "1.0.0",
   "description": "A simple calculator with TypeScript ,Node.js and inquirer",
   "main": "index.js",
